@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker compose up
+COMPOSE_BAKE=true docker compose up
