@@ -12,3 +12,16 @@ dependencies = [
     "sentence-transformers>=4.1.0",
     "tqdm>=4.67.1",
 ]
+
+[tool.ruff]
+line-length = 100
+exclude = [".venv", "venv", "env", "build", "dist"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W"]
+ignore = []
+
+[dependency-groups]
+dev = [
+    "ruff>=0.11.10",
+]

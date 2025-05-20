@@ -14,7 +14,7 @@ This project provides a Python-based pipeline to scrape, process, and embed clin
 - **Dockerized:** The entire pipeline, including the scraper and vector store, runs in isolated Docker containers for reproducibility and easy deployment.
 
 ## Architecture
-- **Python App:** Handles scraping, chunking, and embedding. Can be extended for further RAG tasks.
+- **Python App:** Handles scraping, chunking, and embedding. Can be extended for further RAG tasks. IMPORTANT: uses `uv` for venv management
 - **ChromaDB:** Runs as a service for storing and querying vector embeddings.
 - **Docker Compose:** Orchestrates the Python app and ChromaDB, ensuring seamless communication between services.
 
