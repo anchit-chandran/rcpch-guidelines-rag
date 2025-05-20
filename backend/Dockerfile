@@ -7,12 +7,12 @@ ENV PYTHONUNBUFFERED 1
 # Install uv
 COPY --from=ghcr.io/astral-sh/uv:latest /uv /uvx /bin/
 
-# Install dependencies
-COPY requirements.txt .
-RUN uv pip install --no-cache-dir -r requirements.txt
+# Copy the project into the image
+ADD . /app
 
-# Copy the rest of the code
-COPY . .
+# Sync the project into a new environment, asserting the lockfile is up to date
+WORKDIR /app
+RUN uv sync --locked
 
 # Default entrypoint (to be updated with actual script)
-CMD ["python", "main.py"] 
+CMD ["uv", "python", "main.py"] 
