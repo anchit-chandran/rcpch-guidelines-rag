@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.env
+.env.*
+.venv/
+venv/
+uv.lock
+.python-version
+.git/
+.gitignore
+.DS_Store 
