@@ -1,0 +1,15 @@
+version: '3.8'
+services:
+  rcpch-scraper:
+    build: .
+    container_name: rcpch-scraper
+    volumes:
+      - .:/app
+    command: python main.py
+    depends_on:
+      - chromadb
+  chromadb:
+    image: chromadb/chroma:latest
+    container_name: chromadb
+    ports:
+      - "8000:8000" 
