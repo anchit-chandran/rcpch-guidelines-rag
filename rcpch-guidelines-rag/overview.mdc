@@ -1,0 +1,26 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# RCPCH Guidelines RAG Pipeline Overview
+
+This project provides a Python-based pipeline to scrape, process, and embed clinical guidelines from the RCPCH website, specifically starting from the ADHD heading. The processed data is intended for use in Retrieval-Augmented Generation (RAG) applications, enabling advanced search and question-answering over the guidelines.
+
+## Key Features
+- **Web Scraping:** Utilizes Python and BeautifulSoup to extract guideline content from https://www.rcpch.ac.uk/resources/clinical-guideline-directory#adhd.
+- **Chunking & Embeddings:** Leverages LangChain utilities and sentence-transformers to split content into chunks and generate vector embeddings.
+- **Vector Store:** Stores embeddings in a ChromaDB vector database, which is accessible as a service via Docker Compose.
+- **Dockerized:** The entire pipeline, including the scraper and vector store, runs in isolated Docker containers for reproducibility and easy deployment.
+
+## Architecture
+- **Python App:** Handles scraping, chunking, and embedding. Can be extended for further RAG tasks.
+- **ChromaDB:** Runs as a service for storing and querying vector embeddings.
+- **Docker Compose:** Orchestrates the Python app and ChromaDB, ensuring seamless communication between services.
+
+## Usage
+1. Build and start the services:
+   ```sh
+   s/up
+   ```
+2. The Python app will scrape, process, and store guideline data in ChromaDB, ready for RAG workflows.

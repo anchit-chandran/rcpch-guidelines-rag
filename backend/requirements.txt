@@ -1,0 +1,6 @@
+langchain
+requests
+beautifulsoup4
+tqdm
+openai
+sentence-transformers 
