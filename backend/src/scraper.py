@@ -15,31 +15,20 @@ _logger = get_logger(__name__)
 
 class AllLinksData(BaseModel):
     run_at_datetime: datetime
-    breakdown_by_website: dict[str, int]
+    links_by_type: dict[str, list[str]]
     links: list[str]
 
     def print_analysis(self):
         _logger.info(f"Found {len(self.links)} links")
 
-        for website, count in self.breakdown_by_website.items():
-            _logger.info(f"{website}: {count}")
+        for link_type, links in self.links_by_type.items():
+            _logger.info(f"{link_type}: {len(links)}")
 
 
 def extract_website(url):
     netloc = urlparse(url).netloc
     match = re.match(r"(?:www\.)?([a-zA-Z0-9\-]+)", netloc)
     return match.group(1) if match else netloc
-
-
-def write_link_to_own_file(link: str):
-    _logger.info(f"Writing link to own file: {link}")
-    website = extract_website(link.strip())
-    if os.path.exists(os.path.join(c.DATA_DIR, "sub_dirs", f"{website}.txt")):
-        with open(os.path.join(c.DATA_DIR, "sub_dirs", f"{website}.txt"), "a") as f:
-            f.write(link + "\n")
-    else:
-        with open(os.path.join(c.DATA_DIR, "sub_dirs", f"{website}.txt"), "w") as f:
-            f.write(link + "\n")
 
 
 def scrape_links():
@@ -52,7 +41,7 @@ def scrape_links():
     # Init
     response = requests.get(c.RCPCH_GUIDELINES_URL)
     soup = BeautifulSoup(response.text, "html.parser")
-    breakdown_by_website = defaultdict(int)
+    links_by_type = defaultdict(list)
     ran_at_datetime = datetime.now()
 
     # get all links
@@ -73,17 +62,14 @@ def scrape_links():
                 break
             collected_links.append(href)
 
-            # Write to own file
-            write_link_to_own_file(href)
-
-            # Collect breakdown by website
-            breakdown_by_website[extract_website(href)] += 1
+            # Also add to breakdown by website
+            links_by_type[extract_website(href)].append(href)
 
     _logger.info(f"Scraped {len(collected_links)} links from RCPCH guidelines page")
 
     return AllLinksData(
         run_at_datetime=ran_at_datetime,
-        breakdown_by_website=breakdown_by_website,
+        links_by_type=links_by_type,
         links=collected_links,
     )
 
@@ -114,7 +100,7 @@ def get_links_from_site_or_cache() -> AllLinksData:
 
 
 def scrape_content(links: list[str]) -> list[str]:
-    pass
+    """Each link type requires a different scraping strategy"""
 
 
 if __name__ == "__main__":
