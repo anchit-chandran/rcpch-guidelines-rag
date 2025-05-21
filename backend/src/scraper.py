@@ -4,6 +4,7 @@ import json
 import os
 import re
 from urllib.parse import urlparse
+from parsers.nice import parse_nice_links
 import constants as c
 from bs4 import BeautifulSoup
 import requests
@@ -99,10 +100,19 @@ def get_links_from_site_or_cache() -> AllLinksData:
     return data
 
 
-def scrape_content(links: list[str]) -> list[str]:
+def scrape_content(all_links_data: AllLinksData):
     """Each link type requires a different scraping strategy"""
+
+    # nice
+    for link_type, links in all_links_data.links_by_type.items():
+        if link_type == "nice":
+            parse_nice_links(links)
+        else:
+            _logger.info(f"Skipping link type as no strategy exists: {link_type}")
 
 
 if __name__ == "__main__":
     all_links_data = get_links_from_site_or_cache()
     all_links_data.print_analysis()
+
+    scrape_content(all_links_data)

@@ -1,0 +1,2094 @@
+{
+	"source_data": [
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs39/resources/attention-deficit-hyperactivity-disorder-pdf-2098614641605",
+			"source_name": "Attention deficit hyperactivity disorder",
+			"source_url": "https://www.nice.org.uk/guidance/qs39"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng87/resources/attention-deficit-hyperactivity-disorder-diagnosis-and-management-pdf-1837699732933",
+			"source_name": "Attention deficit hyperactivity disorder: diagnosis and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng87"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg100/resources/alcoholuse-disorders-diagnosis-and-management-of-physical-complications-pdf-35109322251973",
+			"source_name": "Alcohol-use disorders: diagnosis and management of physical complications",
+			"source_url": "https://www.nice.org.uk/guidance/cg100"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg115/resources/alcoholuse-disorders-diagnosis-assessment-and-management-of-harmful-drinking-highrisk-drinking-and-alcohol-dependence-pdf-35109391116229",
+			"source_name": "Alcohol-use disorders: diagnosis, assessment and management of harmful drinking (high-risk drinking) and alcohol dependence",
+			"source_url": "https://www.nice.org.uk/guidance/cg115"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs204/resources/fetal-alcohol-spectrum-disorder-pdf-75547414426309",
+			"source_name": "Fetal alcohol spectrum disorder",
+			"source_url": "https://www.nice.org.uk/guidance/qs204"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg134/resources/anaphylaxis-assessment-and-referral-after-emergency-treatment-pdf-35109510368965",
+			"source_name": "Anaphylaxis: assessment and referral after emergency treatment",
+			"source_url": "https://www.nice.org.uk/guidance/cg134"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng243/resources/adrenal-insufficiency-identification-and-management-pdf-66143954919877",
+			"source_name": "Adrenal insufficiency: identification and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng243"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs121/resources/antimicrobial-stewardship-pdf-75545353537477",
+			"source_name": "Antimicrobial stewardship",
+			"source_url": "https://www.nice.org.uk/guidance/qs121"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng15/resources/antimicrobial-stewardship-systems-and-processes-for-effective-antimicrobial-medicine-use-pdf-1837273110469",
+			"source_name": "Antimicrobial stewardship: systems and processes for effective antimicrobial medicine use",
+			"source_url": "https://www.nice.org.uk/guidance/ng15"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg57/resources/atopic-eczema-in-under-12s-diagnosis-and-management-pdf-975512529349",
+			"source_name": "Atopic eczema in  under 12s: diagnosis and management",
+			"source_url": "https://www.nice.org.uk/guidance/cg57"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs97/resources/drug-allergy-pdf-2098974079429",
+			"source_name": "Drug allergy",
+			"source_url": "https://www.nice.org.uk/guidance/qs97"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs64/resources/fever-in-under-5s-pdf-2098787642053",
+			"source_name": "Fever in under 5s",
+			"source_url": "https://www.nice.org.uk/guidance/qs64"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng143/resources/fever-in-under-5s-assessment-and-initial-management-pdf-66141778137541",
+			"source_name": "Fever in under 5s: assessment and initial management",
+			"source_url": "https://www.nice.org.uk/guidance/ng143"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng103/resources/flu-vaccination-increasing-uptake-pdf-66141536272837",
+			"source_name": "Flu vaccination: increasing uptake",
+			"source_url": "https://www.nice.org.uk/guidance/ng103"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs190/resources/flu-vaccination-increasing-uptake-pdf-75545775121093",
+			"source_name": "Flu vaccination: increasing uptake",
+			"source_url": "https://www.nice.org.uk/guidance/qs190"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs118/resources/food-allergy-pdf-75545304828613",
+			"source_name": "Food allergy",
+			"source_url": "https://www.nice.org.uk/guidance/qs118"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg116/resources/food-allergy-in-under-19s-assessment-and-diagnosis-pdf-35109392795845",
+			"source_name": "Food allergy in under 19s: assessment and diagnosis",
+			"source_url": "https://www.nice.org.uk/guidance/cg116"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/NG218/resources/vaccine-uptake-in-the-general-population-pdf-66143781919429",
+			"source_name": "Vaccine uptake in the general population",
+			"source_url": "https://www.nice.org.uk/guidance/NG218"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg165/resources/hepatitis-b-chronic-diagnosis-and-management-pdf-35109693447109",
+			"source_name": "Hepatitis B (chronic): diagnosis and management",
+			"source_url": "https://www.nice.org.uk/guidance/cg165"
+		},
+		{
+			"source_data": " https://www.nice.org.uk/guidance/NG218/resources/vaccine-uptake-in-the-general-population-pdf-66143781919429",
+			"source_name": "Vaccine uptake in the general population",
+			"source_url": " https://www.nice.org.uk/guidance/NG218"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng79/resources/sinusitis-acute-antimicrobial-prescribing-pdf-1837642625989",
+			"source_name": "Sinusitis (acute): antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng79"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng79/resources/sinusitis-acute-antimicrobial-prescribing-pdf-1837642625989",
+			"source_name": "Sinusitis (acute): antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng79"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs19/resources/meningitis-bacterial-and-meningococcal-disease-pdf-2098493709253",
+			"source_name": "Meningitis (bacterial) and meningococcal disease",
+			"source_url": "https://www.nice.org.uk/guidance/qs19"
+		},
+		{
+			"source_data": "",
+			"source_name": "Meningitis (bacterial) and meningococcal septicaemia in under 16s: recognition, diagnosis and management",
+			"source_url": "https://www.nice.org.uk/guidance/cg102"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg64/resources/prophylaxis-against-infective-endocarditis-antimicrobial-prophylaxis-against-infective-endocarditis-in-adults-and-children-undergoing-interventional-procedures-pdf-975567956677",
+			"source_name": "Prophylaxis against infective endocarditis: antimicrobial prophylaxis against infective endocarditis in adults and children undergoing interventional procedures",
+			"source_url": "https://www.nice.org.uk/guidance/cg64"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng111/resources/pyelonephritis-acute-antimicrobial-prescribing-pdf-66141593379781",
+			"source_name": "Pyelonephritis (acute): antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng111"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng125/resources/surgical-site-infections-prevention-and-treatment-pdf-66141660564421",
+			"source_name": "Surgical site infections: prevention and treatment",
+			"source_url": "https://www.nice.org.uk/guidance/ng125"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs145/resources/vaccine-uptake-in-under-19s-pdf-75545481188293",
+			"source_name": "Vaccine uptake in under 19s",
+			"source_url": "https://www.nice.org.uk/guidance/qs145"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng201/resources/antenatal-care-pdf-66143709695941",
+			"source_name": "Antenatal care",
+			"source_url": "https://www.nice.org.uk/guidance/ng201"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs22/resources/antenatal-care-pdf-2098542418117",
+			"source_name": "Antenatal care",
+			"source_url": "https://www.nice.org.uk/guidance/qs22"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng193/resources/chronic-pain-primary-and-secondary-in-over-16s-assessment-of-all-chronic-pain-and-management-of-chronic-primary-pain-pdf-66142080468421",
+			"source_name": "Chronic pain (primary and secondary) in over 16s: assessment of all chronic pain and management of chronic primary pain",
+			"source_url": "https://www.nice.org.uk/guidance/ng193"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng195/resources/neonatal-infection-antibiotics-for-prevention-and-treatment-pdf-66142083827653",
+			"source_name": "Neonatal infection: antibiotics for prevention and treatment",
+			"source_url": "https://www.nice.org.uk/guidance/ng195"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs75/resources/neonatal-infection-pdf-2098849787845",
+			"source_name": "Neonatal infection",
+			"source_url": "https://www.nice.org.uk/guidance/qs75"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs121/resources/antimicrobial-stewardship-pdf-75545353537477",
+			"source_name": "Antimicrobial stewardship",
+			"source_url": "https://www.nice.org.uk/guidance/qs121"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng15/resources/antimicrobial-stewardship-systems-and-processes-for-effective-antimicrobial-medicine-use-pdf-1837273110469",
+			"source_name": "Antimicrobial stewardship: systems and processes for effective antimicrobial medicine use",
+			"source_url": "https://www.nice.org.uk/guidance/ng15"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/NG141/resources/cellulitis-and-erysipelas-antimicrobial-prescribing-pdf-66141774778309",
+			"source_name": "Cellulitis and erysipelas: antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/NG141"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng153/resources/impetigo-antimicrobial-prescribing-pdf-66141838603717",
+			"source_name": "Impetigo: antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng153"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng199/resources/clostridioides-difficile-infection-antimicrobial-prescribing-pdf-66142090546117",
+			"source_name": "Clostridioides difficile infection: antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng199"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng184/resources/human-and-animal-bites-antimicrobial-prescribing-pdf-66142021681861",
+			"source_name": "Human and animal bites: antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng184"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng153/resources/impetigo-antimicrobial-prescribing-pdf-66141838603717",
+			"source_name": "Impetigo: antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng153"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng182/resources/insect-bites-and-stings-antimicrobial-prescribing-pdf-66142018322629",
+			"source_name": "Insect bites and stings: antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng182"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg64/resources/prophylaxis-against-infective-endocarditis-antimicrobial-prophylaxis-against-infective-endocarditis-in-adults-and-children-undergoing-interventional-procedures-pdf-975567956677",
+			"source_name": "Prophylaxis against infective endocarditis: antimicrobial prophylaxis against infective endocarditis in adults and children undergoing interventional procedures",
+			"source_url": "https://www.nice.org.uk/guidance/cg64"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng111/resources/pyelonephritis-acute-antimicrobial-prescribing-pdf-66141593379781",
+			"source_name": "Pyelonephritis (acute): antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng111"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng79/resources/sinusitis-acute-antimicrobial-prescribing-pdf-1837642625989",
+			"source_name": "Sinusitis (acute): antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng79"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng79/resources/sinusitis-acute-antimicrobial-prescribing-pdf-1837642625989",
+			"source_name": "Sinusitis (acute): antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng79"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs75/resources/neonatal-infection-pdf-2098849787845",
+			"source_name": "Neonatal infection",
+			"source_url": "https://www.nice.org.uk/guidance/qs75"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng193/resources/chronic-pain-primary-and-secondary-in-over-16s-assessment-of-all-chronic-pain-and-management-of-chronic-primary-pain-pdf-66142080468421",
+			"source_name": "Chronic pain (primary and secondary) in over 16s: assessment of all chronic pain and management of chronic primary pain",
+			"source_url": "https://www.nice.org.uk/guidance/ng193"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng195/resources/neonatal-infection-antibiotics-for-prevention-and-treatment-pdf-66142083827653",
+			"source_name": "Neonatal infection: antibiotics for prevention and treatment",
+			"source_url": "https://www.nice.org.uk/guidance/ng195"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/NG91/resources/otitis-media-acute-antimicrobial-prescribing-pdf-1837750121413",
+			"source_name": "Otitis media (acute): antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/NG91"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng112/resources/urinary-tract-infection-recurrent-antimicrobial-prescribing-pdf-66141595059397",
+			"source_name": "Urinary tract infection (recurrent): antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng112"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs25/resources/asthma-pdf-2098547456965",
+			"source_name": "Asthma",
+			"source_url": "https://www.nice.org.uk/guidance/qs25"
+		},
+		{
+			"source_data": "",
+			"source_name": "Asthma: diagnosis, monitoring and chronic asthma management",
+			"source_url": "https://www.nice.org.uk/guidance/ng80"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng26/resources/childrens-attachment-attachment-in-children-and-young-people-who-are-adopted-from-care-in-care-or-at-high-risk-of-going-into-care-pdf-1837335256261",
+			"source_name": "Children’s attachment: attachment in children and young people who are adopted from care, in care or at high risk of going into care",
+			"source_url": "https://www.nice.org.uk/guidance/ng26"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs133/resources/childrens-attachment-pdf-75545417362885",
+			"source_name": "Children’s attachment",
+			"source_url": "https://www.nice.org.uk/guidance/qs133"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/NG91/resources/otitis-media-acute-antimicrobial-prescribing-pdf-1837750121413",
+			"source_name": "Otitis media (acute): antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/NG91"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng233/resources/otitis-media-with-effusion-in-under-12s-pdf-66143894453701",
+			"source_name": "Otitis media with effusion in under 12s",
+			"source_url": "https://www.nice.org.uk/guidance/ng233"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng155/resources/tinnitus-assessment-and-management-pdf-66141841962949",
+			"source_name": "Tinnitus: assessment and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng155"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs51/resources/autism-pdf-2098722137029",
+			"source_name": "Autism",
+			"source_url": "https://www.nice.org.uk/guidance/qs51"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg128/resources/autism-spectrum-disorder-in-under-19s-recognition-referral-and-diagnosis-pdf-35109456621253",
+			"source_name": "Autism spectrum disorder in under 19s: recognition, referral and diagnosis",
+			"source_url": "https://www.nice.org.uk/guidance/cg128"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg170/resources/autism-spectrum-disorder-in-under-19s-support-and-management-pdf-35109745515205",
+			"source_name": "Autism spectrum disorder in under 19s: support and management",
+			"source_url": "https://www.nice.org.uk/guidance/cg170"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs155/resources/low-back-pain-and-sciatica-in-over-16s-pdf-75545541654469",
+			"source_name": "Low back pain and sciatica in over 16s",
+			"source_url": "https://www.nice.org.uk/guidance/qs155"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng59/resources/low-back-pain-and-sciatica-in-over-16s-assessment-and-management-pdf-1837521693637",
+			"source_name": "Low back pain and sciatica in over 16s: assessment and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng59"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg185/resources/bipolar-disorder-assessment-and-management-pdf-35109814379461",
+			"source_name": "Bipolar disorder: assessment and management",
+			"source_url": "https://www.nice.org.uk/guidance/cg185"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs102/resources/bipolar-disorder-psychosis-and-schizophrenia-in-children-and-young-people-pdf-75545234284741",
+			"source_name": "Bipolar disorder, psychosis and schizophrenia in children and young people",
+			"source_url": "https://www.nice.org.uk/guidance/qs102"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs122/resources/bronchiolitis-in-children-pdf-75545355217093",
+			"source_name": "Bronchiolitis in children",
+			"source_url": "https://www.nice.org.uk/guidance/qs122"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng9/resources/bronchiolitis-in-children-diagnosis-and-management-pdf-51048523717",
+			"source_name": "Bronchiolitis in children: diagnosis and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng9"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs162/resources/cerebral-palsy-in-children-and-young-people-pdf-75545597081797",
+			"source_name": "Cerebral palsy in children and young people",
+			"source_url": "https://www.nice.org.uk/guidance/qs162"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng62/resources/cerebral-palsy-in-under-25s-assessment-and-management-pdf-1837570402501",
+			"source_name": "Cerebral palsy in under 25s: assessment and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng62"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs134/resources/coeliac-disease-pdf-75545419042501",
+			"source_name": "Coeliac disease",
+			"source_url": "https://www.nice.org.uk/guidance/qs134"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng20/resources/coeliac-disease-recognition-assessment-and-management-pdf-1837325178565",
+			"source_name": "Coeliac disease: recognition, assessment and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng20"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs59/resources/antisocial-behaviour-and-conduct-disorders-in-children-and-young-people-pdf-2098735573957",
+			"source_name": "Antisocial behaviour and conduct disorders in children and young people",
+			"source_url": "https://www.nice.org.uk/guidance/qs59"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg158/resources/antisocial-behaviour-and-conduct-disorders-in-children-and-young-people-recognition-and-management-pdf-35109638019781",
+			"source_name": "Antisocial behaviour and conduct disorders in children and young people: recognition and management",
+			"source_url": "https://www.nice.org.uk/guidance/cg158"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs62/resources/constipation-in-children-and-young-people-pdf-2098784282821",
+			"source_name": "Constipation in children and young people",
+			"source_url": "https://www.nice.org.uk/guidance/qs62"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg99/resources/constipation-in-children-and-young-people-diagnosis-and-management-pdf-975757753285",
+			"source_name": "Constipation in children and young people: diagnosis and management",
+			"source_url": "https://www.nice.org.uk/guidance/cg99"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs168/resources/cystic-fibrosis-pdf-75545607159493",
+			"source_name": "Cystic fibrosis",
+			"source_url": "https://www.nice.org.uk/guidance/qs168"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng78/resources/cystic-fibrosis-diagnosis-and-management-pdf-1837640946373",
+			"source_name": "Cystic fibrosis: diagnosis and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng78"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs48/resources/depression-in-children-and-young-people-pdf-2098673428165",
+			"source_name": "Depression in children and young people",
+			"source_url": "https://www.nice.org.uk/guidance/qs48"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng134/resources/depression-in-children-and-young-people-identification-and-management-pdf-66141719350981",
+			"source_name": "Depression in children and young people: identification and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng134"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng198/resources/acne-vulgaris-management-pdf-66142088866501",
+			"source_name": "Acne vulgaris: management",
+			"source_url": "https://www.nice.org.uk/guidance/ng198"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/NG141/resources/cellulitis-and-erysipelas-antimicrobial-prescribing-pdf-66141774778309",
+			"source_name": "Cellulitis and erysipelas: antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/NG141"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng153/resources/impetigo-antimicrobial-prescribing-pdf-66141838603717",
+			"source_name": "Impetigo: antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng153"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng182/resources/insect-bites-and-stings-antimicrobial-prescribing-pdf-66142018322629",
+			"source_name": "Insect bites and stings: antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng182"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg153/resources/psoriasis-assessment-and-management-pdf-35109629621701",
+			"source_name": "Psoriasis: assessment and management",
+			"source_url": "https://www.nice.org.uk/guidance/cg153"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng190/resources/secondary-bacterial-infection-of-eczema-and-other-common-skin-conditions-antimicrobial-prescribing-pdf-66142075429573",
+			"source_name": "Secondary bacterial infection of eczema and other common skin conditions: antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng190"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng190/resources/secondary-bacterial-infection-of-eczema-and-other-common-skin-conditions-antimicrobial-prescribing-pdf-66142075429573",
+			"source_name": "Secondary bacterial infection of eczema and other common skin conditions: antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng190"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng72/resources/developmental-followup-of-children-and-young-people-born-preterm-pdf-1837630868677",
+			"source_name": "Developmental follow-up of children and young people born preterm",
+			"source_url": "https://www.nice.org.uk/guidance/ng72"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs169/resources/developmental-followup-of-children-and-young-people-born-preterm-pdf-75545608839109",
+			"source_name": "Developmental follow-up of children and young people born preterm",
+			"source_url": "https://www.nice.org.uk/guidance/qs169"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng18/resources/diabetes-type-1-and-type-2-in-children-and-young-people-diagnosis-and-management-pdf-1837278149317",
+			"source_name": "Diabetes (type 1 and type 2) in children and young people: diagnosis and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng18"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs125/resources/diabetes-in-children-and-young-people-pdf-75545360255941",
+			"source_name": "Diabetes in children and young people",
+			"source_url": "https://www.nice.org.uk/guidance/qs125"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng3/resources/diabetes-in-pregnancy-management-from-preconception-to-the-postnatal-period-pdf-51038446021",
+			"source_name": "Diabetes in pregnancy: management from preconception to the postnatal period",
+			"source_url": "https://www.nice.org.uk/guidance/ng3"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs109/resources/diabetes-in-pregnancy-pdf-75545246042053",
+			"source_name": "Diabetes in pregnancy",
+			"source_url": "https://www.nice.org.uk/guidance/qs109"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng19/resources/diabetic-foot-problems-prevention-and-management-pdf-1837279828933",
+			"source_name": "Diabetic foot problems: prevention and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng19"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg84/resources/diarrhoea-and-vomiting-caused-by-gastroenteritis-in-under-5s-diagnosis-and-management-pdf-975688889029",
+			"source_name": "Diarrhoea and vomiting caused by gastroenteritis in under 5s: diagnosis and management",
+			"source_url": "https://www.nice.org.uk/guidance/cg84"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg93/resources/donor-milk-banks-service-operation-pdf-975747675589",
+			"source_name": "Donor milk banks: service operation",
+			"source_url": "https://www.nice.org.uk/guidance/cg93"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs128/resources/early-years-promoting-health-and-wellbeing-in-under-5s-pdf-75545365294789",
+			"source_name": "Early years: promoting health and wellbeing in under 5s",
+			"source_url": "https://www.nice.org.uk/guidance/qs128"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs175/resources/eating-disorders-pdf-75545662586821",
+			"source_name": "Eating disorders",
+			"source_url": "https://www.nice.org.uk/guidance/qs175"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng69/resources/eating-disorders-recognition-and-treatment-pdf-1837582159813",
+			"source_name": "Eating disorders: recognition and treatment",
+			"source_url": "https://www.nice.org.uk/guidance/ng69"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs44/resources/atopic-eczema-in-under-12s-pdf-2098666709701",
+			"source_name": "Atopic eczema in under 12s",
+			"source_url": "https://www.nice.org.uk/guidance/qs44"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg57/resources/atopic-eczema-in-under-12s-diagnosis-and-management-pdf-975512529349",
+			"source_name": "Atopic eczema in  under 12s: diagnosis and management",
+			"source_url": "https://www.nice.org.uk/guidance/cg57"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng190/resources/secondary-bacterial-infection-of-eczema-and-other-common-skin-conditions-antimicrobial-prescribing-pdf-66142075429573",
+			"source_name": "Secondary bacterial infection of eczema and other common skin conditions: antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng190"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng190/resources/secondary-bacterial-infection-of-eczema-and-other-common-skin-conditions-antimicrobial-prescribing-pdf-66142075429573",
+			"source_name": "Secondary bacterial infection of eczema and other common skin conditions: antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng190"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng184/resources/human-and-animal-bites-antimicrobial-prescribing-pdf-66142021681861",
+			"source_name": "Human and animal bites: antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng184"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng39/resources/major-trauma-assessment-and-initial-management-pdf-1837400761285",
+			"source_name": "Major trauma: assessment and initial management",
+			"source_url": "https://www.nice.org.uk/guidance/ng39"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng40/resources/major-trauma-service-delivery-pdf-1837446110917",
+			"source_name": "Major trauma: service delivery",
+			"source_url": "https://www.nice.org.uk/guidance/ng40"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs198/resources/suspected-neurological-conditions-recognition-and-referral-pdf-75545788558021",
+			"source_name": "Suspected neurological conditions: recognition and referral",
+			"source_url": "https://www.nice.org.uk/guidance/qs198"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs166/resources/trauma-pdf-75545603800261",
+			"source_name": "Trauma",
+			"source_url": "https://www.nice.org.uk/guidance/qs166"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs160/resources/end-of-life-care-for-infants-children-and-young-people-pdf-75545593722565",
+			"source_name": "End of life care for infants, children and young people",
+			"source_url": "https://www.nice.org.uk/guidance/qs160"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng61/resources/end-of-life-care-for-infants-children-and-young-people-with-lifelimiting-conditions-planning-and-management-pdf-1837568722885",
+			"source_name": "End of life care for infants, children and young people with life-limiting conditions: planning and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng61"
+		},
+		{
+			"source_data": "",
+			"source_name": "COVID-19 rapid guideline: vitamin D",
+			"source_url": "https://www.nice.org.uk/guidance/ng187"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng18/resources/diabetes-type-1-and-type-2-in-children-and-young-people-diagnosis-and-management-pdf-1837278149317",
+			"source_name": "Diabetes (type 1 and type 2) in children and young people: diagnosis and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng18"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs125/resources/diabetes-in-children-and-young-people-pdf-75545360255941",
+			"source_name": "Diabetes in children and young people",
+			"source_url": "https://www.nice.org.uk/guidance/qs125"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng3/resources/diabetes-in-pregnancy-management-from-preconception-to-the-postnatal-period-pdf-51038446021",
+			"source_name": "Diabetes in pregnancy: management from preconception to the postnatal period",
+			"source_url": "https://www.nice.org.uk/guidance/ng3"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng19/resources/diabetic-foot-problems-prevention-and-management-pdf-1837279828933",
+			"source_name": "Diabetic foot problems: prevention and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng19"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs197/resources/faltering-growth-pdf-75545786878405",
+			"source_name": "Faltering growth",
+			"source_url": "https://www.nice.org.uk/guidance/qs197"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng75/resources/faltering-growth-recognition-and-management-of-faltering-growth-in-children-pdf-1837635907525",
+			"source_name": "Faltering growth: recognition and management of faltering growth in children",
+			"source_url": "https://www.nice.org.uk/guidance/ng75"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg71/resources/familial-hypercholesterolaemia-identification-and-management-pdf-975623384005",
+			"source_name": "Familial hypercholesterolaemia: identification and management",
+			"source_url": "https://www.nice.org.uk/guidance/cg71"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs94/resources/obesity-in-children-and-young-people-prevention-and-lifestyle-weight-management-programmes-pdf-2098969040581",
+			"source_name": "Obesity in children and young people: prevention and lifestyle weight management programmes",
+			"source_url": "https://www.nice.org.uk/guidance/qs94"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs127/resources/obesity-clinical-assessment-and-management-pdf-75545363615173",
+			"source_name": "Obesity: clinical assessment and management",
+			"source_url": "https://www.nice.org.uk/guidance/qs127"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng145/resources/thyroid-disease-assessment-and-management-pdf-66141781496773",
+			"source_name": "Thyroid disease: assessment and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng145"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ph56/resources/vitamin-d-supplement-use-in-specific-population-groups-pdf-1996421765317",
+			"source_name": "Vitamin D: supplement use in specific population groups",
+			"source_url": "https://www.nice.org.uk/guidance/ph56"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng217/resources/epilepsies-in-children-young-people-and-adults-pdf-66143780239813",
+			"source_name": "Epilepsies in children, young people and adults",
+			"source_url": "https://www.nice.org.uk/guidance/ng217"
+		},
+		{
+			"source_data": "",
+			"source_name": "Epilepsy in children and young people",
+			"source_url": "https://www.nice.org.uk/guidance/qs27"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs211/resources/epilepsies-in-children-young-people-and-adults-pdf-75547469853637",
+			"source_name": "Epilepsies in children, young people and adults",
+			"source_url": "https://www.nice.org.uk/guidance/qs211"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs64/resources/fever-in-under-5s-pdf-2098787642053",
+			"source_name": "Fever in under 5s",
+			"source_url": "https://www.nice.org.uk/guidance/qs64"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng143/resources/fever-in-under-5s-assessment-and-initial-management-pdf-66141778137541",
+			"source_name": "Fever in under 5s: assessment and initial management",
+			"source_url": "https://www.nice.org.uk/guidance/ng143"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng37/resources/fractures-complex-assessment-and-management-pdf-1837397402053",
+			"source_name": "Fractures (complex): assessment and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng37"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng38/resources/fractures-noncomplex-assessment-and-management-pdf-1837399081669",
+			"source_name": "Fractures (non-complex): assessment and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng38"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg100/resources/alcoholuse-disorders-diagnosis-and-management-of-physical-complications-pdf-35109322251973",
+			"source_name": "Alcohol-use disorders: diagnosis and management of physical complications",
+			"source_url": "https://www.nice.org.uk/guidance/cg100"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg115/resources/alcoholuse-disorders-diagnosis-assessment-and-management-of-harmful-drinking-highrisk-drinking-and-alcohol-dependence-pdf-35109391116229",
+			"source_name": "Alcohol-use disorders: diagnosis, assessment and management of harmful drinking (high-risk drinking) and alcohol dependence",
+			"source_url": "https://www.nice.org.uk/guidance/cg115"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng144/resources/cannabisbased-medicinal-products-pdf-66141779817157",
+			"source_name": "Cannabis-based medicinal products",
+			"source_url": "https://www.nice.org.uk/guidance/ng144"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng153/resources/impetigo-antimicrobial-prescribing-pdf-66141838603717",
+			"source_name": "Impetigo: antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng153"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng199/resources/clostridioides-difficile-infection-antimicrobial-prescribing-pdf-66142090546117",
+			"source_name": "Clostridioides difficile infection: antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng199"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs134/resources/coeliac-disease-pdf-75545419042501",
+			"source_name": "Coeliac disease",
+			"source_url": "https://www.nice.org.uk/guidance/qs134"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng20/resources/coeliac-disease-recognition-assessment-and-management-pdf-1837325178565",
+			"source_name": "Coeliac disease: recognition, assessment and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng20"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs62/resources/constipation-in-children-and-young-people-pdf-2098784282821",
+			"source_name": "Constipation in children and young people",
+			"source_url": "https://www.nice.org.uk/guidance/qs62"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg99/resources/constipation-in-children-and-young-people-diagnosis-and-management-pdf-975757753285",
+			"source_name": "Constipation in children and young people: diagnosis and management",
+			"source_url": "https://www.nice.org.uk/guidance/cg99"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng129/resources/crohns-disease-management-pdf-66141667282885",
+			"source_name": "Crohn’s disease: management",
+			"source_url": "https://www.nice.org.uk/guidance/ng129"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg84/resources/diarrhoea-and-vomiting-caused-by-gastroenteritis-in-under-5s-diagnosis-and-management-pdf-975688889029",
+			"source_name": "Diarrhoea and vomiting caused by gastroenteritis in under 5s: diagnosis and management",
+			"source_url": "https://www.nice.org.uk/guidance/cg84"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng1/resources/gastrooesophageal-reflux-disease-in-children-and-young-people-diagnosis-and-management-pdf-51035086789",
+			"source_name": "Gastro-oesophageal reflux disease in children and young people: diagnosis and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng1"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs112/resources/gastrooesophageal-reflux-in-children-and-young-people-pdf-75545294750917",
+			"source_name": "Gastro-oesophageal reflux in children and young people",
+			"source_url": "https://www.nice.org.uk/guidance/qs112"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs152/resources/liver-disease-pdf-75545536615621",
+			"source_name": "Liver disease",
+			"source_url": "https://www.nice.org.uk/guidance/qs152"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng104/resources/pancreatitis-pdf-66141537952453",
+			"source_name": "Pancreatitis",
+			"source_url": "https://www.nice.org.uk/guidance/ng104"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng130/resources/ulcerative-colitis-management-pdf-66141712632517",
+			"source_name": "Ulcerative colitis: management",
+			"source_url": "https://www.nice.org.uk/guidance/ng130"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng112/resources/urinary-tract-infection-recurrent-antimicrobial-prescribing-pdf-66141595059397",
+			"source_name": "Urinary tract infection (recurrent): antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng112"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng198/resources/acne-vulgaris-management-pdf-66142088866501",
+			"source_name": "Acne vulgaris: management",
+			"source_url": "https://www.nice.org.uk/guidance/ng198"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng204/resources/babies-children-and-young-peoples-experience-of-healthcare-pdf-66143714734789",
+			"source_name": "Babies, children and young people's experience of healthcare",
+			"source_url": "https://www.nice.org.uk/guidance/ng204"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/NG183/resources/behaviour-change-digital-and-mobile-health-interventions-pdf-66142020002245",
+			"source_name": "Behaviour change: digital and mobile health interventions",
+			"source_url": "https://www.nice.org.uk/guidance/NG183"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng144/resources/cannabisbased-medicinal-products-pdf-66141779817157",
+			"source_name": "Cannabis-based medicinal products",
+			"source_url": "https://www.nice.org.uk/guidance/ng144"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/NG141/resources/cellulitis-and-erysipelas-antimicrobial-prescribing-pdf-66141774778309",
+			"source_name": "Cellulitis and erysipelas: antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/NG141"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs47/resources/heavy-menstrual-bleeding-pdf-2098671748549",
+			"source_name": "Heavy menstrual bleeding",
+			"source_url": "https://www.nice.org.uk/guidance/qs47"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng88/resources/heavy-menstrual-bleeding-assessment-and-management-pdf-1837701412549",
+			"source_name": "Heavy menstrual bleeding: assessment and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng88"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng153/resources/impetigo-antimicrobial-prescribing-pdf-66141838603717",
+			"source_name": "Impetigo: antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng153"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs189/resources/suicide-prevention-pdf-75545729771461",
+			"source_name": "Suicide prevention",
+			"source_url": "https://www.nice.org.uk/guidance/qs189"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng145/resources/thyroid-disease-assessment-and-management-pdf-66141781496773",
+			"source_name": "Thyroid disease: assessment and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng145"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng130/resources/ulcerative-colitis-management-pdf-66141712632517",
+			"source_name": "Ulcerative colitis: management",
+			"source_url": "https://www.nice.org.uk/guidance/ng130"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng73/resources/endometriosis-diagnosis-and-management-pdf-1837632548293",
+			"source_name": "Endometriosis: diagnosis and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng73"
+		},
+		{
+			"source_data": "",
+			"source_name": "COVID-19 rapid guideline: reducing the risk of venous thromboembolism in over 16s with COVID-19",
+			"source_url": "https://www.nice.org.uk/guidance/ng186"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs74/resources/head-injury-pdf-2098848108229",
+			"source_name": "Head injury",
+			"source_url": "https://www.nice.org.uk/guidance/qs74"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng232/resources/head-injury-assessment-and-early-management-pdf-66143892774085",
+			"source_name": "Head injury: assessment and early management",
+			"source_url": "https://www.nice.org.uk/guidance/ng232"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs42/resources/headaches-in-over-12s-pdf-2098663350469",
+			"source_name": "Headaches in over 12s",
+			"source_url": "https://www.nice.org.uk/guidance/qs42"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg150/resources/headaches-in-over-12s-diagnosis-and-management-pdf-35109624582853",
+			"source_name": "Headaches in over 12s: diagnosis and management",
+			"source_url": "https://www.nice.org.uk/guidance/cg150"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg165/resources/hepatitis-b-chronic-diagnosis-and-management-pdf-35109693447109",
+			"source_name": "Hepatitis B (chronic): diagnosis and management",
+			"source_url": "https://www.nice.org.uk/guidance/cg165"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg71/resources/familial-hypercholesterolaemia-identification-and-management-pdf-975623384005",
+			"source_name": "Familial hypercholesterolaemia: identification and management",
+			"source_url": "https://www.nice.org.uk/guidance/cg71"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng103/resources/flu-vaccination-increasing-uptake-pdf-66141536272837",
+			"source_name": "Flu vaccination: increasing uptake",
+			"source_url": "https://www.nice.org.uk/guidance/ng103"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs190/resources/flu-vaccination-increasing-uptake-pdf-75545775121093",
+			"source_name": "Flu vaccination: increasing uptake",
+			"source_url": "https://www.nice.org.uk/guidance/qs190"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg139/resources/healthcareassociated-infections-prevention-and-control-in-primary-and-community-care-pdf-35109518767045",
+			"source_name": "Healthcare-associated infections: prevention and control in primary and community care",
+			"source_url": "https://www.nice.org.uk/guidance/cg139"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng79/resources/sinusitis-acute-antimicrobial-prescribing-pdf-1837642625989",
+			"source_name": "Sinusitis (acute): antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng79"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng79/resources/sinusitis-acute-antimicrobial-prescribing-pdf-1837642625989",
+			"source_name": "Sinusitis (acute): antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng79"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng125/resources/surgical-site-infections-prevention-and-treatment-pdf-66141660564421",
+			"source_name": "Surgical site infections: prevention and treatment",
+			"source_url": "https://www.nice.org.uk/guidance/ng125"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs145/resources/vaccine-uptake-in-under-19s-pdf-75545481188293",
+			"source_name": "Vaccine uptake in under 19s",
+			"source_url": "https://www.nice.org.uk/guidance/qs145"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng112/resources/urinary-tract-infection-recurrent-antimicrobial-prescribing-pdf-66141595059397",
+			"source_name": "Urinary tract infection (recurrent): antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng112"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng153/resources/impetigo-antimicrobial-prescribing-pdf-66141838603717",
+			"source_name": "Impetigo: antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng153"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng199/resources/clostridioides-difficile-infection-antimicrobial-prescribing-pdf-66142090546117",
+			"source_name": "Clostridioides difficile infection: antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng199"
+		},
+		{
+			"source_data": "",
+			"source_name": "COVID-19 rapid guideline: vitamin D",
+			"source_url": "https://www.nice.org.uk/guidance/ng187"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng188/resources/covid19-rapid-guideline-managing-the-longterm-effects-of-covid19-pdf-66142028400325",
+			"source_name": "COVID-19 rapid guideline: managing the long-term effects of COVID-19",
+			"source_url": "https://www.nice.org.uk/guidance/ng188"
+		},
+		{
+			"source_data": "",
+			"source_name": "COVID-19 rapid guideline: reducing the risk of venous thromboembolism in over 16s with COVID-19",
+			"source_url": "https://www.nice.org.uk/guidance/ng186"
+		},
+		{
+			"source_data": "",
+			"source_name": "COVID-19 rapid guideline: vitamin D",
+			"source_url": "https://www.nice.org.uk/guidance/ng187"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg165/resources/hepatitis-b-chronic-diagnosis-and-management-pdf-35109693447109",
+			"source_name": "Hepatitis B (chronic): diagnosis and management",
+			"source_url": "https://www.nice.org.uk/guidance/cg165"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng184/resources/human-and-animal-bites-antimicrobial-prescribing-pdf-66142021681861",
+			"source_name": "Human and animal bites: antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng184"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng182/resources/insect-bites-and-stings-antimicrobial-prescribing-pdf-66142018322629",
+			"source_name": "Insect bites and stings: antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng182"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng95/resources/lyme-disease-pdf-1837756839877",
+			"source_name": "Lyme disease",
+			"source_url": "https://www.nice.org.uk/guidance/ng95"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs186/resources/lyme-disease-pdf-75545724732613",
+			"source_name": "Lyme disease",
+			"source_url": "https://www.nice.org.uk/guidance/qs186"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng190/resources/secondary-bacterial-infection-of-eczema-and-other-common-skin-conditions-antimicrobial-prescribing-pdf-66142075429573",
+			"source_name": "Secondary bacterial infection of eczema and other common skin conditions: antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng190"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng190/resources/secondary-bacterial-infection-of-eczema-and-other-common-skin-conditions-antimicrobial-prescribing-pdf-66142075429573",
+			"source_name": "Secondary bacterial infection of eczema and other common skin conditions: antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng190"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng112/resources/urinary-tract-infection-recurrent-antimicrobial-prescribing-pdf-66141595059397",
+			"source_name": "Urinary tract infection (recurrent): antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng112"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg64/resources/prophylaxis-against-infective-endocarditis-antimicrobial-prophylaxis-against-infective-endocarditis-in-adults-and-children-undergoing-interventional-procedures-pdf-975567956677",
+			"source_name": "Prophylaxis against infective endocarditis: antimicrobial prophylaxis against infective endocarditis in adults and children undergoing interventional procedures",
+			"source_url": "https://www.nice.org.uk/guidance/cg64"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs107/resources/preventing-unintentional-injury-in-under-15s-pdf-75545242682821",
+			"source_name": "Preventing unintentional injury in under 15s",
+			"source_url": "https://www.nice.org.uk/guidance/qs107"
+		},
+		{
+			"source_data": "",
+			"source_name": "COVID-19 rapid guideline: vitamin D",
+			"source_url": "https://www.nice.org.uk/guidance/ng187"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng188/resources/covid19-rapid-guideline-managing-the-longterm-effects-of-covid19-pdf-66142028400325",
+			"source_name": "COVID-19 rapid guideline: managing the long-term effects of COVID-19",
+			"source_url": "https://www.nice.org.uk/guidance/ng188"
+		},
+		{
+			"source_data": "",
+			"source_name": "COVID-19 rapid guideline: reducing the risk of venous thromboembolism in over 16s with COVID-19",
+			"source_url": "https://www.nice.org.uk/guidance/ng186"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng29/resources/intravenous-fluid-therapy-in-children-and-young-people-in-hospital-pdf-1837340295109",
+			"source_name": "Intravenous fluid therapy in children and young people in hospital",
+			"source_url": "https://www.nice.org.uk/guidance/ng29"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs131/resources/intravenous-fluid-therapy-in-children-and-young-people-in-hospital-pdf-75545414003653",
+			"source_name": "Intravenous fluid therapy in children and young people in hospital",
+			"source_url": "https://www.nice.org.uk/guidance/qs131"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg98/resources/jaundice-in-newborn-babies-under-28-days-pdf-975756073669",
+			"source_name": "Jaundice in newborn babies under 28 days",
+			"source_url": "https://www.nice.org.uk/guidance/cg98"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs57/resources/jaundice-in-newborn-babies-under-28-days-pdf-2098732214725",
+			"source_name": "Jaundice in newborn babies under 28 days",
+			"source_url": "https://www.nice.org.uk/guidance/qs57"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/NG183/resources/behaviour-change-digital-and-mobile-health-interventions-pdf-66142020002245",
+			"source_name": "Behaviour change: digital and mobile health interventions",
+			"source_url": "https://www.nice.org.uk/guidance/NG183"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng11/resources/challenging-behaviour-and-learning-disabilities-prevention-and-interventions-for-people-with-learning-disabilities-whose-behaviour-challenges-pdf-1837266392005",
+			"source_name": "Challenging behaviour and learning disabilities: prevention and interventions for people with learning disabilities whose behaviour challenges",
+			"source_url": "https://www.nice.org.uk/guidance/ng11"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs194/resources/decision-making-and-mental-capacity-pdf-75545781839557",
+			"source_name": "Decision making and mental capacity",
+			"source_url": "https://www.nice.org.uk/guidance/qs194"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/NG93/resources/learning-disabilities-and-behaviour-that-challenges-service-design-and-delivery-pdf-1837753480645",
+			"source_name": "Learning disabilities and behaviour that challenges: service design and delivery",
+			"source_url": "https://www.nice.org.uk/guidance/NG93"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs101/resources/learning-disability-behaviour-that-challenges-pdf-75545232605125",
+			"source_name": "Learning disability: behaviour that challenges",
+			"source_url": "https://www.nice.org.uk/guidance/qs101"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng240/resources/meningitis-bacterial-and-meningococcal-disease-recognition-diagnosis-and-management-pdf-66143949881029",
+			"source_name": "Meningitis (bacterial) and meningococcal disease: recognition, diagnosis and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng240"
+		},
+		{
+			"source_data": "",
+			"source_name": "Sepsis",
+			"source_url": "https://www.nice.org.uk/guidance/qs161"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng51/resources/suspected-sepsis-recognition-diagnosis-and-early-management-pdf-1837508256709",
+			"source_name": "Suspected sepsis: recognition, diagnosis and early management",
+			"source_url": "https://www.nice.org.uk/guidance/ng51"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs47/resources/heavy-menstrual-bleeding-pdf-2098671748549",
+			"source_name": "Heavy menstrual bleeding",
+			"source_url": "https://www.nice.org.uk/guidance/qs47"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng88/resources/heavy-menstrual-bleeding-assessment-and-management-pdf-1837701412549",
+			"source_name": "Heavy menstrual bleeding: assessment and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng88"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng73/resources/endometriosis-diagnosis-and-management-pdf-1837632548293",
+			"source_name": "Endometriosis: diagnosis and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng73"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg192/resources/antenatal-and-postnatal-mental-health-clinical-management-and-service-guidance-pdf-35109869806789",
+			"source_name": "Antenatal and postnatal mental health: clinical management and service guidance",
+			"source_url": "https://www.nice.org.uk/guidance/cg192"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs59/resources/antisocial-behaviour-and-conduct-disorders-in-children-and-young-people-pdf-2098735573957",
+			"source_name": "Antisocial behaviour and conduct disorders in children and young people",
+			"source_url": "https://www.nice.org.uk/guidance/qs59"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg158/resources/antisocial-behaviour-and-conduct-disorders-in-children-and-young-people-recognition-and-management-pdf-35109638019781",
+			"source_name": "Antisocial behaviour and conduct disorders in children and young people: recognition and management",
+			"source_url": "https://www.nice.org.uk/guidance/cg158"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg77/resources/antisocial-personality-disorder-prevention-and-management-pdf-975633461701",
+			"source_name": "Antisocial personality disorder:  prevention and management",
+			"source_url": "https://www.nice.org.uk/guidance/cg77"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs102/resources/bipolar-disorder-psychosis-and-schizophrenia-in-children-and-young-people-pdf-75545234284741",
+			"source_name": "Bipolar disorder, psychosis and schizophrenia in children and young people",
+			"source_url": "https://www.nice.org.uk/guidance/qs102"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg185/resources/bipolar-disorder-assessment-and-management-pdf-35109814379461",
+			"source_name": "Bipolar disorder: assessment and management",
+			"source_url": "https://www.nice.org.uk/guidance/cg185"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg78/resources/borderline-personality-disorder-recognition-and-management-pdf-975635141317",
+			"source_name": "Borderline personality disorder: recognition and management",
+			"source_url": "https://www.nice.org.uk/guidance/cg78"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng11/resources/challenging-behaviour-and-learning-disabilities-prevention-and-interventions-for-people-with-learning-disabilities-whose-behaviour-challenges-pdf-1837266392005",
+			"source_name": "Challenging behaviour and learning disabilities: prevention and interventions for people with learning disabilities whose behaviour challenges",
+			"source_url": "https://www.nice.org.uk/guidance/ng11"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng26/resources/childrens-attachment-attachment-in-children-and-young-people-who-are-adopted-from-care-in-care-or-at-high-risk-of-going-into-care-pdf-1837335256261",
+			"source_name": "Children’s attachment: attachment in children and young people who are adopted from care, in care or at high risk of going into care",
+			"source_url": "https://www.nice.org.uk/guidance/ng26"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg120/resources/coexisting-severe-mental-illness-psychosis-and-substance-misuse-assessment-and-management-in-healthcare-settings-pdf-35109443184325",
+			"source_name": "Coexisting severe mental illness (psychosis) and substance misuse: assessment and management in healthcare settings",
+			"source_url": "https://www.nice.org.uk/guidance/cg120"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs188/resources/coexisting-severe-mental-illness-and-substance-misuse-pdf-75545728091845",
+			"source_name": "Coexisting severe mental illness and substance misuse",
+			"source_url": "https://www.nice.org.uk/guidance/qs188"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs194/resources/decision-making-and-mental-capacity-pdf-75545781839557",
+			"source_name": "Decision making and mental capacity",
+			"source_url": "https://www.nice.org.uk/guidance/qs194"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs48/resources/depression-in-children-and-young-people-pdf-2098673428165",
+			"source_name": "Depression in children and young people",
+			"source_url": "https://www.nice.org.uk/guidance/qs48"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng134/resources/depression-in-children-and-young-people-identification-and-management-pdf-66141719350981",
+			"source_name": "Depression in children and young people: identification and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng134"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg52/resources/drug-misuse-in-over-16s-opioid-detoxification-pdf-975504131269",
+			"source_name": "Drug misuse in over 16s: opioid detoxification",
+			"source_url": "https://www.nice.org.uk/guidance/cg52"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg51/resources/drug-misuse-in-over-16s-psychosocial-interventions-pdf-975502451653",
+			"source_name": "Drug misuse in over 16s: psychosocial interventions",
+			"source_url": "https://www.nice.org.uk/guidance/cg51"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs165/resources/drug-misuse-prevention-pdf-75545602120645",
+			"source_name": "Drug misuse prevention",
+			"source_url": "https://www.nice.org.uk/guidance/qs165"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs175/resources/eating-disorders-pdf-75545662586821",
+			"source_name": "Eating disorders",
+			"source_url": "https://www.nice.org.uk/guidance/qs175"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng69/resources/eating-disorders-recognition-and-treatment-pdf-1837582159813",
+			"source_name": "Eating disorders: recognition and treatment",
+			"source_url": "https://www.nice.org.uk/guidance/ng69"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/NG93/resources/learning-disabilities-and-behaviour-that-challenges-service-design-and-delivery-pdf-1837753480645",
+			"source_name": "Learning disabilities and behaviour that challenges: service design and delivery",
+			"source_url": "https://www.nice.org.uk/guidance/NG93"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs101/resources/learning-disability-behaviour-that-challenges-pdf-75545232605125",
+			"source_name": "Learning disability: behaviour that challenges",
+			"source_url": "https://www.nice.org.uk/guidance/qs101"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs88/resources/personality-disorders-borderline-and-antisocial-pdf-2098915292869",
+			"source_name": "Personality disorders: borderline and antisocial",
+			"source_url": "https://www.nice.org.uk/guidance/qs88"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng116/resources/posttraumatic-stress-disorder-pdf-66141601777861",
+			"source_name": "Post-traumatic stress disorder",
+			"source_url": "https://www.nice.org.uk/guidance/ng116"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg155/resources/psychosis-and-schizophrenia-in-children-and-young-people-recognition-and-management-pdf-35109632980933",
+			"source_name": "Psychosis and schizophrenia in children and young people: recognition and management",
+			"source_url": "https://www.nice.org.uk/guidance/cg155"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs34/resources/selfharm-pdf-2098606243525",
+			"source_name": "Self‑harm",
+			"source_url": "https://www.nice.org.uk/guidance/qs34"
+		},
+		{
+			"source_data": "",
+			"source_name": "Self-harm in over 8s: short-term management and prevention of recurrence",
+			"source_url": "https://www.nice.org.uk/guidance/cg16"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng225/resources/selfharm-assessment-management-and-preventing-recurrence-pdf-66143837346757",
+			"source_name": "Self-harm: assessment, management and preventing recurrence",
+			"source_url": "https://www.nice.org.uk/guidance/ng225"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs189/resources/suicide-prevention-pdf-75545729771461",
+			"source_name": "Suicide prevention",
+			"source_url": "https://www.nice.org.uk/guidance/qs189"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs159/resources/transition-between-inpatient-mental-health-settings-and-community-or-care-home-settings-pdf-75545548372933",
+			"source_name": "Transition between inpatient mental health settings and community or care home settings",
+			"source_url": "https://www.nice.org.uk/guidance/qs159"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs154/resources/violent-and-aggressive-behaviours-in-people-with-mental-health-problems-pdf-75545539974853",
+			"source_name": "Violent and aggressive behaviours in people with mental health problems",
+			"source_url": "https://www.nice.org.uk/guidance/qs154"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs155/resources/low-back-pain-and-sciatica-in-over-16s-pdf-75545541654469",
+			"source_name": "Low back pain and sciatica in over 16s",
+			"source_url": "https://www.nice.org.uk/guidance/qs155"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng59/resources/low-back-pain-and-sciatica-in-over-16s-assessment-and-management-pdf-1837521693637",
+			"source_name": "Low back pain and sciatica in over 16s: assessment and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng59"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng59/resources/low-back-pain-and-sciatica-in-over-16s-assessment-and-management-pdf-1837521693637",
+			"source_name": "Low back pain and sciatica in over 16s: assessment and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng59"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg192/resources/antenatal-and-postnatal-mental-health-clinical-management-and-service-guidance-pdf-35109869806789",
+			"source_name": "Antenatal and postnatal mental health: clinical management and service guidance",
+			"source_url": "https://www.nice.org.uk/guidance/cg192"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng201/resources/antenatal-care-pdf-66143709695941",
+			"source_name": "Antenatal care",
+			"source_url": "https://www.nice.org.uk/guidance/ng201"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs22/resources/antenatal-care-pdf-2098542418117",
+			"source_name": "Antenatal care",
+			"source_url": "https://www.nice.org.uk/guidance/qs22"
+		},
+		{
+			"source_data": "",
+			"source_name": "Antenatal care for uncomplicated pregnancies",
+			"source_url": "https://www.nice.org.uk/guidance/cg62"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng72/resources/developmental-followup-of-children-and-young-people-born-preterm-pdf-1837630868677",
+			"source_name": "Developmental follow-up of children and young people born preterm",
+			"source_url": "https://www.nice.org.uk/guidance/ng72"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs169/resources/developmental-followup-of-children-and-young-people-born-preterm-pdf-75545608839109",
+			"source_name": "Developmental follow-up of children and young people born preterm",
+			"source_url": "https://www.nice.org.uk/guidance/qs169"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng3/resources/diabetes-in-pregnancy-management-from-preconception-to-the-postnatal-period-pdf-51038446021",
+			"source_name": "Diabetes in pregnancy: management from preconception to the postnatal period",
+			"source_url": "https://www.nice.org.uk/guidance/ng3"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg93/resources/donor-milk-banks-service-operation-pdf-975747675589",
+			"source_name": "Donor milk banks: service operation",
+			"source_url": "https://www.nice.org.uk/guidance/cg93"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng235/resources/intrapartum-care-pdf-66143897812933",
+			"source_name": "Intrapartum care",
+			"source_url": "https://www.nice.org.uk/guidance/ng235"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng121/resources/intrapartum-care-for-women-with-existing-medical-conditions-or-obstetric-complications-and-their-babies-pdf-66141653845957",
+			"source_name": "Intrapartum care for women with existing medical conditions or obstetric complications and their babies",
+			"source_url": "https://www.nice.org.uk/guidance/ng121"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs192/resources/intrapartum-care-existing-medical-conditions-and-obstetric-complications-pdf-75545778480325",
+			"source_name": "Intrapartum care: existing medical conditions and obstetric complications",
+			"source_url": "https://www.nice.org.uk/guidance/qs192"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg98/resources/jaundice-in-newborn-babies-under-28-days-pdf-975756073669",
+			"source_name": "Jaundice in newborn babies under 28 days",
+			"source_url": "https://www.nice.org.uk/guidance/cg98"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs57/resources/jaundice-in-newborn-babies-under-28-days-pdf-2098732214725",
+			"source_name": "Jaundice in newborn babies under 28 days",
+			"source_url": "https://www.nice.org.uk/guidance/qs57"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng193/resources/chronic-pain-primary-and-secondary-in-over-16s-assessment-of-all-chronic-pain-and-management-of-chronic-primary-pain-pdf-66142080468421",
+			"source_name": "Chronic pain (primary and secondary) in over 16s: assessment of all chronic pain and management of chronic primary pain",
+			"source_url": "https://www.nice.org.uk/guidance/ng193"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng195/resources/neonatal-infection-antibiotics-for-prevention-and-treatment-pdf-66142083827653",
+			"source_name": "Neonatal infection: antibiotics for prevention and treatment",
+			"source_url": "https://www.nice.org.uk/guidance/ng195"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs75/resources/neonatal-infection-pdf-2098849787845",
+			"source_name": "Neonatal infection",
+			"source_url": "https://www.nice.org.uk/guidance/qs75"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng154/resources/neonatal-parenteral-nutrition-pdf-66141840283333",
+			"source_name": "Neonatal parenteral nutrition",
+			"source_url": "https://www.nice.org.uk/guidance/ng154"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs205/resources/neonatal-parenteral-nutrition-pdf-75547416105925",
+			"source_name": "Neonatal parenteral nutrition",
+			"source_url": "https://www.nice.org.uk/guidance/qs205"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs37/resources/postnatal-care-pdf-2098611282373",
+			"source_name": "Postnatal care",
+			"source_url": "https://www.nice.org.uk/guidance/qs37"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng194/resources/postnatal-care-pdf-66142082148037",
+			"source_name": "Postnatal care",
+			"source_url": "https://www.nice.org.uk/guidance/ng194"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs135/resources/preterm-labour-and-birth-pdf-75545420722117",
+			"source_name": "Preterm labour and birth",
+			"source_url": "https://www.nice.org.uk/guidance/qs135"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng25/resources/preterm-labour-and-birth-pdf-1837333576645",
+			"source_name": "Preterm labour and birth",
+			"source_url": "https://www.nice.org.uk/guidance/ng25"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng124/resources/specialist-neonatal-respiratory-care-for-babies-born-preterm-pdf-66141658884805",
+			"source_name": "Specialist neonatal respiratory care for babies born preterm",
+			"source_url": "https://www.nice.org.uk/guidance/ng124"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs193/resources/specialist-neonatal-respiratory-care-for-babies-born-preterm-pdf-75545780159941",
+			"source_name": "Specialist neonatal respiratory care for babies born preterm",
+			"source_url": "https://www.nice.org.uk/guidance/qs193"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng148/resources/acute-kidney-injury-prevention-detection-and-management-pdf-66141786535621",
+			"source_name": "Acute kidney injury: prevention, detection and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng148"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs76/resources/acute-kidney-injury-pdf-2098851467461",
+			"source_name": "Acute kidney injury",
+			"source_url": "https://www.nice.org.uk/guidance/qs76"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs70/resources/bedwetting-in-children-and-young-people-pdf-2098841389765",
+			"source_name": "Bedwetting in children and young people",
+			"source_url": "https://www.nice.org.uk/guidance/qs70"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg111/resources/bedwetting-in-under-19s-pdf-35109384397765",
+			"source_name": "Bedwetting in under 19s",
+			"source_url": "https://www.nice.org.uk/guidance/cg111"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng203/resources/chronic-kidney-disease-assessment-and-management-pdf-66143713055173",
+			"source_name": "Chronic kidney disease: assessment and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng203"
+		},
+		{
+			"source_data": "",
+			"source_name": "Chronic kidney disease: managing anaemia",
+			"source_url": "https://www.nice.org.uk/guidance/ng8"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng118/resources/renal-and-ureteric-stones-assessment-and-management-pdf-66141605137093",
+			"source_name": "Renal and ureteric stones: assessment and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng118"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs195/resources/renal-and-ureteric-stones-pdf-75545783519173",
+			"source_name": "Renal and ureteric stones",
+			"source_url": "https://www.nice.org.uk/guidance/qs195"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng107/resources/renal-replacement-therapy-and-conservative-management-pdf-66141542991301",
+			"source_name": "Renal replacement therapy and conservative management",
+			"source_url": "https://www.nice.org.uk/guidance/ng107"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg148/resources/urinary-incontinence-in-neurological-disease-assessment-and-management-pdf-35109577553605",
+			"source_name": "Urinary incontinence in neurological disease: assessment and management",
+			"source_url": "https://www.nice.org.uk/guidance/cg148"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng113/resources/urinary-tract-infection-catheterassociated-antimicrobial-prescribing-pdf-66141596739013",
+			"source_name": "Urinary tract infection (catheter-associated): antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng113"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng109/resources/urinary-tract-infection-lower-antimicrobial-prescribing-pdf-66141546350533",
+			"source_name": "Urinary tract infection (lower): antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng109"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng112/resources/urinary-tract-infection-recurrent-antimicrobial-prescribing-pdf-66141595059397",
+			"source_name": "Urinary tract infection (recurrent): antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng112"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs36/resources/urinary-tract-infection-in-children-and-young-people-pdf-2098609602757",
+			"source_name": "Urinary tract infection in children and young people",
+			"source_url": "https://www.nice.org.uk/guidance/qs36"
+		},
+		{
+			"source_data": "",
+			"source_name": "Urinary tract infection  in  under 16s: diagnosis  and management",
+			"source_url": "https://www.nice.org.uk/guidance/cg54"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng224/resources/urinary-tract-infection-in-under-16s-diagnosis-and-management-pdf-66143835667141",
+			"source_name": "Urinary tract infection in under 16s: diagnosis and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng224"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs39/resources/attention-deficit-hyperactivity-disorder-pdf-2098614641605",
+			"source_name": "Attention deficit hyperactivity disorder",
+			"source_url": "https://www.nice.org.uk/guidance/qs39"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng87/resources/attention-deficit-hyperactivity-disorder-diagnosis-and-management-pdf-1837699732933",
+			"source_name": "Attention deficit hyperactivity disorder: diagnosis and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng87"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs51/resources/autism-pdf-2098722137029",
+			"source_name": "Autism",
+			"source_url": "https://www.nice.org.uk/guidance/qs51"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg128/resources/autism-spectrum-disorder-in-under-19s-recognition-referral-and-diagnosis-pdf-35109456621253",
+			"source_name": "Autism spectrum disorder in under 19s: recognition, referral and diagnosis",
+			"source_url": "https://www.nice.org.uk/guidance/cg128"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg170/resources/autism-spectrum-disorder-in-under-19s-support-and-management-pdf-35109745515205",
+			"source_name": "Autism spectrum disorder in under 19s: support and management",
+			"source_url": "https://www.nice.org.uk/guidance/cg170"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs162/resources/cerebral-palsy-in-children-and-young-people-pdf-75545597081797",
+			"source_name": "Cerebral palsy in children and young people",
+			"source_url": "https://www.nice.org.uk/guidance/qs162"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng62/resources/cerebral-palsy-in-under-25s-assessment-and-management-pdf-1837570402501",
+			"source_name": "Cerebral palsy in under 25s: assessment and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng62"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng11/resources/challenging-behaviour-and-learning-disabilities-prevention-and-interventions-for-people-with-learning-disabilities-whose-behaviour-challenges-pdf-1837266392005",
+			"source_name": "Challenging behaviour and learning disabilities: prevention and interventions for people with learning disabilities whose behaviour challenges",
+			"source_url": "https://www.nice.org.uk/guidance/ng11"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng61/resources/end-of-life-care-for-infants-children-and-young-people-with-lifelimiting-conditions-planning-and-management-pdf-1837568722885",
+			"source_name": "End of life care for infants, children and young people with life-limiting conditions: planning and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng61"
+		},
+		{
+			"source_data": "",
+			"source_name": "Epilepsies: diagnosis and management",
+			"source_url": "https://www.nice.org.uk/guidance/cg137"
+		},
+		{
+			"source_data": "",
+			"source_name": "Epilepsy in children and young people",
+			"source_url": "https://www.nice.org.uk/guidance/qs27"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs42/resources/headaches-in-over-12s-pdf-2098663350469",
+			"source_name": "Headaches in over 12s",
+			"source_url": "https://www.nice.org.uk/guidance/qs42"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg150/resources/headaches-in-over-12s-diagnosis-and-management-pdf-35109624582853",
+			"source_name": "Headaches in over 12s: diagnosis and management",
+			"source_url": "https://www.nice.org.uk/guidance/cg150"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/NG93/resources/learning-disabilities-and-behaviour-that-challenges-service-design-and-delivery-pdf-1837753480645",
+			"source_name": "Learning disabilities and behaviour that challenges: service design and delivery",
+			"source_url": "https://www.nice.org.uk/guidance/NG93"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs101/resources/learning-disability-behaviour-that-challenges-pdf-75545232605125",
+			"source_name": "Learning disability: behaviour that challenges",
+			"source_url": "https://www.nice.org.uk/guidance/qs101"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg145/resources/spasticity-in-under-19s-management-pdf-35109572514757",
+			"source_name": "Spasticity in under 19s: management",
+			"source_url": "https://www.nice.org.uk/guidance/cg145"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng128/resources/stroke-and-transient-ischaemic-attack-in-over-16s-diagnosis-and-initial-management-pdf-66141665603269",
+			"source_name": "Stroke and transient ischaemic attack in over 16s: diagnosis and initial management",
+			"source_url": "https://www.nice.org.uk/guidance/ng128"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng127/resources/suspected-neurological-conditions-recognition-and-referral-pdf-66141663923653",
+			"source_name": "Suspected neurological conditions: recognition and referral",
+			"source_url": "https://www.nice.org.uk/guidance/ng127"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs198/resources/suspected-neurological-conditions-recognition-and-referral-pdf-75545788558021",
+			"source_name": "Suspected neurological conditions: recognition and referral",
+			"source_url": "https://www.nice.org.uk/guidance/qs198"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg148/resources/urinary-incontinence-in-neurological-disease-assessment-and-management-pdf-35109577553605",
+			"source_name": "Urinary incontinence in neurological disease: assessment and management",
+			"source_url": "https://www.nice.org.uk/guidance/cg148"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs197/resources/faltering-growth-pdf-75545786878405",
+			"source_name": "Faltering growth",
+			"source_url": "https://www.nice.org.uk/guidance/qs197"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng75/resources/faltering-growth-recognition-and-management-of-faltering-growth-in-children-pdf-1837635907525",
+			"source_name": "Faltering growth: recognition and management of faltering growth in children",
+			"source_url": "https://www.nice.org.uk/guidance/ng75"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng247/resources/maternal-and-child-nutrition-nutrition-and-weight-management-in-pregnancy-and-nutrition-in-children-up-to-5-years-pdf-66143961638341",
+			"source_name": "Maternal and child nutrition: nutrition and weight management in pregnancy, and nutrition in children up to 5 years",
+			"source_url": "https://www.nice.org.uk/guidance/ng247"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng154/resources/neonatal-parenteral-nutrition-pdf-66141840283333",
+			"source_name": "Neonatal parenteral nutrition",
+			"source_url": "https://www.nice.org.uk/guidance/ng154"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng239/resources/vitamin-b12-deficiency-in-over-16s-diagnosis-and-management-pdf-66143904531397",
+			"source_name": "Vitamin B12 deficiency in over 16s: diagnosis and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng239"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng246/resources/overweight-and-obesity-management-pdf-66143959958725",
+			"source_name": "Overweight and obesity management",
+			"source_url": "https://www.nice.org.uk/guidance/ng246"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs94/resources/obesity-in-children-and-young-people-prevention-and-lifestyle-weight-management-programmes-pdf-2098969040581",
+			"source_name": "Obesity in children and young people: prevention and lifestyle weight management programmes",
+			"source_url": "https://www.nice.org.uk/guidance/qs94"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs127/resources/obesity-clinical-assessment-and-management-pdf-75545363615173",
+			"source_name": "Obesity: clinical assessment and management",
+			"source_url": "https://www.nice.org.uk/guidance/qs127"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng24/resources/blood-transfusion-pdf-1837331897029",
+			"source_name": "Blood transfusion",
+			"source_url": "https://www.nice.org.uk/guidance/ng24"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs138/resources/blood-transfusion-pdf-75545425760965",
+			"source_name": "Blood transfusion",
+			"source_url": "https://www.nice.org.uk/guidance/qs138"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs55/resources/cancer-services-for-children-and-young-people-pdf-2098728855493",
+			"source_name": "Cancer services for children and young people",
+			"source_url": "https://www.nice.org.uk/guidance/qs55"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng61/resources/end-of-life-care-for-infants-children-and-young-people-with-lifelimiting-conditions-planning-and-management-pdf-1837568722885",
+			"source_name": "End of life care for infants, children and young people with life-limiting conditions: planning and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng61"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs150/resources/haematological-cancers-pdf-75545533256389",
+			"source_name": "Haematological cancers",
+			"source_url": "https://www.nice.org.uk/guidance/qs150"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng14/resources/melanoma-assessment-and-management-pdf-1837271430853",
+			"source_name": "Melanoma: assessment and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng14"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg151/resources/neutropenic-sepsis-prevention-and-management-in-people-with-cancer-pdf-35109626262469",
+			"source_name": "Neutropenic sepsis: prevention and management in people with cancer",
+			"source_url": "https://www.nice.org.uk/guidance/cg151"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs58/resources/sickle-cell-disease-pdf-2098733894341",
+			"source_name": "Sickle cell disease",
+			"source_url": "https://www.nice.org.uk/guidance/qs58"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs130/resources/skin-cancer-pdf-75545412324037",
+			"source_name": "Skin cancer",
+			"source_url": "https://www.nice.org.uk/guidance/qs130"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs124/resources/suspected-cancer-pdf-75545358576325",
+			"source_name": "Suspected cancer",
+			"source_url": "https://www.nice.org.uk/guidance/qs124"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng12/resources/suspected-cancer-recognition-and-referral-pdf-1837268071621",
+			"source_name": "Suspected cancer: recognition and referral",
+			"source_url": "https://www.nice.org.uk/guidance/ng12"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs180/resources/serious-eye-disorders-pdf-75545714654917",
+			"source_name": "Serious eye disorders",
+			"source_url": "https://www.nice.org.uk/guidance/qs180"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng37/resources/fractures-complex-assessment-and-management-pdf-1837397402053",
+			"source_name": "Fractures (complex): assessment and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng37"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng38/resources/fractures-noncomplex-assessment-and-management-pdf-1837399081669",
+			"source_name": "Fractures (non-complex): assessment and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng38"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng41/resources/spinal-injury-assessment-and-initial-management-pdf-1837447790533",
+			"source_name": "Spinal injury: assessment and initial management",
+			"source_url": "https://www.nice.org.uk/guidance/ng41"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/NG191/resources/covid19-rapid-guideline-managing-covid19-pdf-66142077109189",
+			"source_name": "COVID-19 rapid guideline: managing COVID-19",
+			"source_url": "https://www.nice.org.uk/guidance/NG191"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng193/resources/chronic-pain-primary-and-secondary-in-over-16s-assessment-of-all-chronic-pain-and-management-of-chronic-primary-pain-pdf-66142080468421",
+			"source_name": "Chronic pain (primary and secondary) in over 16s: assessment of all chronic pain and management of chronic primary pain",
+			"source_url": "https://www.nice.org.uk/guidance/ng193"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg77/resources/antisocial-personality-disorder-prevention-and-management-pdf-975633461701",
+			"source_name": "Antisocial personality disorder:  prevention and management",
+			"source_url": "https://www.nice.org.uk/guidance/cg77"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg78/resources/borderline-personality-disorder-recognition-and-management-pdf-975635141317",
+			"source_name": "Borderline personality disorder: recognition and management",
+			"source_url": "https://www.nice.org.uk/guidance/cg78"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs88/resources/personality-disorders-borderline-and-antisocial-pdf-2098915292869",
+			"source_name": "Personality disorders: borderline and antisocial",
+			"source_url": "https://www.nice.org.uk/guidance/qs88"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng144/resources/cannabisbased-medicinal-products-pdf-66141779817157",
+			"source_name": "Cannabis-based medicinal products",
+			"source_url": "https://www.nice.org.uk/guidance/ng144"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg76/resources/medicines-adherence-involving-patients-in-decisions-about-prescribed-medicines-and-supporting-adherence-pdf-975631782085",
+			"source_name": "Medicines adherence: involving patients in decisions about prescribed medicines and supporting adherence",
+			"source_url": "https://www.nice.org.uk/guidance/cg76"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/NG91/resources/otitis-media-acute-antimicrobial-prescribing-pdf-1837750121413",
+			"source_name": "Otitis media (acute): antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/NG91"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng145/resources/thyroid-disease-assessment-and-management-pdf-66141781496773",
+			"source_name": "Thyroid disease: assessment and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng145"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng70/resources/air-pollution-outdoor-air-quality-and-health-pdf-1837627509445",
+			"source_name": "Air pollution: outdoor air quality and health",
+			"source_url": "https://www.nice.org.uk/guidance/ng70"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs181/resources/air-pollution-outdoor-air-quality-and-health-pdf-75545716334533",
+			"source_name": "Air pollution: outdoor air quality and health",
+			"source_url": "https://www.nice.org.uk/guidance/qs181"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs37/resources/postnatal-care-pdf-2098611282373",
+			"source_name": "Postnatal care",
+			"source_url": "https://www.nice.org.uk/guidance/qs37"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng194/resources/postnatal-care-pdf-66142082148037",
+			"source_name": "Postnatal care",
+			"source_url": "https://www.nice.org.uk/guidance/ng194"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs89/resources/pressure-ulcers-pdf-2098916972485",
+			"source_name": "Pressure ulcers",
+			"source_url": "https://www.nice.org.uk/guidance/qs89"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg179/resources/pressure-ulcers-prevention-and-management-pdf-35109760631749",
+			"source_name": "Pressure ulcers: prevention and management",
+			"source_url": "https://www.nice.org.uk/guidance/cg179"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs102/resources/bipolar-disorder-psychosis-and-schizophrenia-in-children-and-young-people-pdf-75545234284741",
+			"source_name": "Bipolar disorder, psychosis and schizophrenia in children and young people",
+			"source_url": "https://www.nice.org.uk/guidance/qs102"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg120/resources/coexisting-severe-mental-illness-psychosis-and-substance-misuse-assessment-and-management-in-healthcare-settings-pdf-35109443184325",
+			"source_name": "Coexisting severe mental illness (psychosis) and substance misuse: assessment and management in healthcare settings",
+			"source_url": "https://www.nice.org.uk/guidance/cg120"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg155/resources/psychosis-and-schizophrenia-in-children-and-young-people-recognition-and-management-pdf-35109632980933",
+			"source_name": "Psychosis and schizophrenia in children and young people: recognition and management",
+			"source_url": "https://www.nice.org.uk/guidance/cg155"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng116/resources/posttraumatic-stress-disorder-pdf-66141601777861",
+			"source_name": "Post-traumatic stress disorder",
+			"source_url": "https://www.nice.org.uk/guidance/ng116"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng70/resources/air-pollution-outdoor-air-quality-and-health-pdf-1837627509445",
+			"source_name": "Air pollution: outdoor air quality and health",
+			"source_url": "https://www.nice.org.uk/guidance/ng70"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs181/resources/air-pollution-outdoor-air-quality-and-health-pdf-75545716334533",
+			"source_name": "Air pollution: outdoor air quality and health",
+			"source_url": "https://www.nice.org.uk/guidance/qs181"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/NG183/resources/behaviour-change-digital-and-mobile-health-interventions-pdf-66142020002245",
+			"source_name": "Behaviour change: digital and mobile health interventions",
+			"source_url": "https://www.nice.org.uk/guidance/NG183"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs148/resources/community-engagement-improving-health-and-wellbeing-pdf-75545486227141",
+			"source_name": "Community engagement: improving health and wellbeing",
+			"source_url": "https://www.nice.org.uk/guidance/qs148"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs128/resources/early-years-promoting-health-and-wellbeing-in-under-5s-pdf-75545365294789",
+			"source_name": "Early years: promoting health and wellbeing in under 5s",
+			"source_url": "https://www.nice.org.uk/guidance/qs128"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg139/resources/healthcareassociated-infections-prevention-and-control-in-primary-and-community-care-pdf-35109518767045",
+			"source_name": "Healthcare-associated infections: prevention and control in primary and community care",
+			"source_url": "https://www.nice.org.uk/guidance/cg139"
+		},
+		{
+			"source_data": "",
+			"source_name": "Immunisations: reducing differences in uptake in under 19s",
+			"source_url": "https://www.nice.org.uk/guidance/ph21"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs127/resources/obesity-clinical-assessment-and-management-pdf-75545363615173",
+			"source_name": "Obesity: clinical assessment and management",
+			"source_url": "https://www.nice.org.uk/guidance/qs127"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs94/resources/obesity-in-children-and-young-people-prevention-and-lifestyle-weight-management-programmes-pdf-2098969040581",
+			"source_name": "Obesity in children and young people: prevention and lifestyle weight management programmes",
+			"source_url": "https://www.nice.org.uk/guidance/qs94"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng90/resources/physical-activity-and-the-environment-pdf-1837748441797",
+			"source_name": "Physical activity and the environment",
+			"source_url": "https://www.nice.org.uk/guidance/ng90"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs183/resources/physical-activity-encouraging-activity-in-the-community-pdf-75545719693765",
+			"source_name": "Physical activity: encouraging activity in the community",
+			"source_url": "https://www.nice.org.uk/guidance/qs183"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs107/resources/preventing-unintentional-injury-in-under-15s-pdf-75545242682821",
+			"source_name": "Preventing unintentional injury in under 15s",
+			"source_url": "https://www.nice.org.uk/guidance/qs107"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng223/resources/social-emotional-and-mental-wellbeing-in-primary-and-secondary-education-pdf-66143833987525",
+			"source_name": "Social, emotional and mental wellbeing in primary and secondary education",
+			"source_url": "https://www.nice.org.uk/guidance/ng223"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ph56/resources/vitamin-d-supplement-use-in-specific-population-groups-pdf-1996421765317",
+			"source_name": "Vitamin D: supplement use in specific population groups",
+			"source_url": "https://www.nice.org.uk/guidance/ph56"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs140/resources/transition-from-childrens-to-adults-services-pdf-75545472790213",
+			"source_name": "Transition from children’s to adults’ services",
+			"source_url": "https://www.nice.org.uk/guidance/qs140"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs25/resources/asthma-pdf-2098547456965",
+			"source_name": "Asthma",
+			"source_url": "https://www.nice.org.uk/guidance/qs25"
+		},
+		{
+			"source_data": "",
+			"source_name": "Asthma: diagnosis, monitoring and chronic asthma management",
+			"source_url": "https://www.nice.org.uk/guidance/ng80"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs122/resources/bronchiolitis-in-children-pdf-75545355217093",
+			"source_name": "Bronchiolitis in children",
+			"source_url": "https://www.nice.org.uk/guidance/qs122"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng9/resources/bronchiolitis-in-children-diagnosis-and-management-pdf-51048523717",
+			"source_name": "Bronchiolitis in children: diagnosis and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng9"
+		},
+		{
+			"source_data": "",
+			"source_name": "COVID-19 rapid guideline: vitamin D",
+			"source_url": "https://www.nice.org.uk/guidance/ng187"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng188/resources/covid19-rapid-guideline-managing-the-longterm-effects-of-covid19-pdf-66142028400325",
+			"source_name": "COVID-19 rapid guideline: managing the long-term effects of COVID-19",
+			"source_url": "https://www.nice.org.uk/guidance/ng188"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs168/resources/cystic-fibrosis-pdf-75545607159493",
+			"source_name": "Cystic fibrosis",
+			"source_url": "https://www.nice.org.uk/guidance/qs168"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng78/resources/cystic-fibrosis-diagnosis-and-management-pdf-1837640946373",
+			"source_name": "Cystic fibrosis: diagnosis and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng78"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng202/resources/obstructive-sleep-apnoeahypopnoea-syndrome-and-obesity-hypoventilation-syndrome-in-over-16s-pdf-66143711375557",
+			"source_name": "Obstructive sleep apnoea/hypopnoea syndrome and obesity hypoventilation syndrome in over 16s",
+			"source_url": "https://www.nice.org.uk/guidance/ng202"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng124/resources/specialist-neonatal-respiratory-care-for-babies-born-preterm-pdf-66141658884805",
+			"source_name": "Specialist neonatal respiratory care for babies born preterm",
+			"source_url": "https://www.nice.org.uk/guidance/ng124"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs193/resources/specialist-neonatal-respiratory-care-for-babies-born-preterm-pdf-75545780159941",
+			"source_name": "Specialist neonatal respiratory care for babies born preterm",
+			"source_url": "https://www.nice.org.uk/guidance/qs193"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng33/resources/tuberculosis-pdf-1837390683589",
+			"source_name": "Tuberculosis",
+			"source_url": "https://www.nice.org.uk/guidance/ng33"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs141/resources/tuberculosis-pdf-75545474469829",
+			"source_name": "Tuberculosis",
+			"source_url": "https://www.nice.org.uk/guidance/qs141"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng76/resources/child-abuse-and-neglect-pdf-1837637587141",
+			"source_name": "Child abuse and neglect",
+			"source_url": "https://www.nice.org.uk/guidance/ng76"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs179/resources/child-abuse-and-neglect-pdf-75545669305285",
+			"source_name": "Child abuse and neglect",
+			"source_url": "https://www.nice.org.uk/guidance/qs179"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg89/resources/child-maltreatment-when-to-suspect-maltreatment-in-under-18s-pdf-975697287109",
+			"source_name": "Child maltreatment: when to suspect maltreatment in under 18s",
+			"source_url": "https://www.nice.org.uk/guidance/cg89"
+		},
+		{
+			"source_data": "",
+			"source_name": "Looked-after children and young people",
+			"source_url": "https://www.nice.org.uk/guidance/ph28"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs31/resources/lookedafter-children-and-young-people-pdf-2098601204677",
+			"source_name": "Looked-after children and young people",
+			"source_url": "https://www.nice.org.uk/guidance/qs31"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg112/resources/sedation-in-under-19s-using-sedation-for-diagnostic-and-therapeutic-procedures-pdf-35109386077381",
+			"source_name": "Sedation in under 19s: using sedation for diagnostic and therapeutic procedures",
+			"source_url": "https://www.nice.org.uk/guidance/cg112"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs34/resources/selfharm-pdf-2098606243525",
+			"source_name": "Self‑harm",
+			"source_url": "https://www.nice.org.uk/guidance/qs34"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng225/resources/selfharm-assessment-management-and-preventing-recurrence-pdf-66143837346757",
+			"source_name": "Self-harm: assessment, management and preventing recurrence",
+			"source_url": "https://www.nice.org.uk/guidance/ng225"
+		},
+		{
+			"source_data": "",
+			"source_name": "Self-harm in over 8s: long-term management",
+			"source_url": "https://www.nice.org.uk/guidance/cg133"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs189/resources/suicide-prevention-pdf-75545729771461",
+			"source_name": "Suicide prevention",
+			"source_url": "https://www.nice.org.uk/guidance/qs189"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg151/resources/neutropenic-sepsis-prevention-and-management-in-people-with-cancer-pdf-35109626262469",
+			"source_name": "Neutropenic sepsis: prevention and management in people with cancer",
+			"source_url": "https://www.nice.org.uk/guidance/cg151"
+		},
+		{
+			"source_data": "",
+			"source_name": "Sepsis",
+			"source_url": "https://www.nice.org.uk/guidance/qs161"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng51/resources/suspected-sepsis-recognition-diagnosis-and-early-management-pdf-1837508256709",
+			"source_name": "Suspected sepsis: recognition, diagnosis and early management",
+			"source_url": "https://www.nice.org.uk/guidance/ng51"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng55/resources/harmful-sexual-behaviour-among-children-and-young-people-pdf-1837514975173",
+			"source_name": "Harmful sexual behaviour among children and young people",
+			"source_url": "https://www.nice.org.uk/guidance/ng55"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs58/resources/sickle-cell-disease-pdf-2098733894341",
+			"source_name": "Sickle cell disease",
+			"source_url": "https://www.nice.org.uk/guidance/qs58"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs207/resources/tobacco-treating-dependence-pdf-75547419465157",
+			"source_name": "Tobacco: treating dependence",
+			"source_url": "https://www.nice.org.uk/guidance/qs207"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg145/resources/spasticity-in-under-19s-management-pdf-35109572514757",
+			"source_name": "Spasticity in under 19s: management",
+			"source_url": "https://www.nice.org.uk/guidance/cg145"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng41/resources/spinal-injury-assessment-and-initial-management-pdf-1837447790533",
+			"source_name": "Spinal injury: assessment and initial management",
+			"source_url": "https://www.nice.org.uk/guidance/ng41"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng128/resources/stroke-and-transient-ischaemic-attack-in-over-16s-diagnosis-and-initial-management-pdf-66141665603269",
+			"source_name": "Stroke and transient ischaemic attack in over 16s: diagnosis and initial management",
+			"source_url": "https://www.nice.org.uk/guidance/ng128"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs188/resources/coexisting-severe-mental-illness-and-substance-misuse-pdf-75545728091845",
+			"source_name": "Coexisting severe mental illness and substance misuse",
+			"source_url": "https://www.nice.org.uk/guidance/qs188"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg120/resources/coexisting-severe-mental-illness-psychosis-and-substance-misuse-assessment-and-management-in-healthcare-settings-pdf-35109443184325",
+			"source_name": "Coexisting severe mental illness (psychosis) and substance misuse: assessment and management in healthcare settings",
+			"source_url": "https://www.nice.org.uk/guidance/cg120"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg52/resources/drug-misuse-in-over-16s-opioid-detoxification-pdf-975504131269",
+			"source_name": "Drug misuse in over 16s: opioid detoxification",
+			"source_url": "https://www.nice.org.uk/guidance/cg52"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg51/resources/drug-misuse-in-over-16s-psychosocial-interventions-pdf-975502451653",
+			"source_name": "Drug misuse in over 16s: psychosocial interventions",
+			"source_url": "https://www.nice.org.uk/guidance/cg51"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs165/resources/drug-misuse-prevention-pdf-75545602120645",
+			"source_name": "Drug misuse prevention",
+			"source_url": "https://www.nice.org.uk/guidance/qs165"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng129/resources/crohns-disease-management-pdf-66141667282885",
+			"source_name": "Crohn’s disease: management",
+			"source_url": "https://www.nice.org.uk/guidance/ng129"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng39/resources/major-trauma-assessment-and-initial-management-pdf-1837400761285",
+			"source_name": "Major trauma: assessment and initial management",
+			"source_url": "https://www.nice.org.uk/guidance/ng39"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng40/resources/major-trauma-service-delivery-pdf-1837446110917",
+			"source_name": "Major trauma: service delivery",
+			"source_url": "https://www.nice.org.uk/guidance/ng40"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng104/resources/pancreatitis-pdf-66141537952453",
+			"source_name": "Pancreatitis",
+			"source_url": "https://www.nice.org.uk/guidance/ng104"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng118/resources/renal-and-ureteric-stones-assessment-and-management-pdf-66141605137093",
+			"source_name": "Renal and ureteric stones: assessment and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng118"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs195/resources/renal-and-ureteric-stones-pdf-75545783519173",
+			"source_name": "Renal and ureteric stones",
+			"source_url": "https://www.nice.org.uk/guidance/qs195"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng107/resources/renal-replacement-therapy-and-conservative-management-pdf-66141542991301",
+			"source_name": "Renal replacement therapy and conservative management",
+			"source_url": "https://www.nice.org.uk/guidance/ng107"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng125/resources/surgical-site-infections-prevention-and-treatment-pdf-66141660564421",
+			"source_name": "Surgical site infections: prevention and treatment",
+			"source_url": "https://www.nice.org.uk/guidance/ng125"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs166/resources/trauma-pdf-75545603800261",
+			"source_name": "Trauma",
+			"source_url": "https://www.nice.org.uk/guidance/qs166"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng130/resources/ulcerative-colitis-management-pdf-66141712632517",
+			"source_name": "Ulcerative colitis: management",
+			"source_url": "https://www.nice.org.uk/guidance/ng130"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs140/resources/transition-from-childrens-to-adults-services-pdf-75545472790213",
+			"source_name": "Transition from children’s to adults’ services",
+			"source_url": "https://www.nice.org.uk/guidance/qs140"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng43/resources/transition-from-childrens-to-adults-services-for-young-people-using-health-or-social-care-services-pdf-1837451149765",
+			"source_name": "Transition from children’s to adults’ services for young people using health or social care services",
+			"source_url": "https://www.nice.org.uk/guidance/ng43"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg135/resources/organ-donation-for-transplantation-improving-donor-identification-and-consent-rates-for-deceased-organ-donation-pdf-35109512048581",
+			"source_name": "Organ donation for transplantation: improving donor identification and consent rates for deceased organ donation",
+			"source_url": "https://www.nice.org.uk/guidance/cg135"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng33/resources/tuberculosis-pdf-1837390683589",
+			"source_name": "Tuberculosis",
+			"source_url": "https://www.nice.org.uk/guidance/ng33"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs141/resources/tuberculosis-pdf-75545474469829",
+			"source_name": "Tuberculosis",
+			"source_url": "https://www.nice.org.uk/guidance/qs141"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs70/resources/bedwetting-in-children-and-young-people-pdf-2098841389765",
+			"source_name": "Bedwetting in children and young people",
+			"source_url": "https://www.nice.org.uk/guidance/qs70"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg111/resources/bedwetting-in-under-19s-pdf-35109384397765",
+			"source_name": "Bedwetting in under 19s",
+			"source_url": "https://www.nice.org.uk/guidance/cg111"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng118/resources/renal-and-ureteric-stones-assessment-and-management-pdf-66141605137093",
+			"source_name": "Renal and ureteric stones: assessment and management",
+			"source_url": "https://www.nice.org.uk/guidance/ng118"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs195/resources/renal-and-ureteric-stones-pdf-75545783519173",
+			"source_name": "Renal and ureteric stones",
+			"source_url": "https://www.nice.org.uk/guidance/qs195"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng107/resources/renal-replacement-therapy-and-conservative-management-pdf-66141542991301",
+			"source_name": "Renal replacement therapy and conservative management",
+			"source_url": "https://www.nice.org.uk/guidance/ng107"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/cg148/resources/urinary-incontinence-in-neurological-disease-assessment-and-management-pdf-35109577553605",
+			"source_name": "Urinary incontinence in neurological disease: assessment and management",
+			"source_url": "https://www.nice.org.uk/guidance/cg148"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng113/resources/urinary-tract-infection-catheterassociated-antimicrobial-prescribing-pdf-66141596739013",
+			"source_name": "Urinary tract infection (catheter-associated): antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng113"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng109/resources/urinary-tract-infection-lower-antimicrobial-prescribing-pdf-66141546350533",
+			"source_name": "Urinary tract infection (lower): antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng109"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/ng112/resources/urinary-tract-infection-recurrent-antimicrobial-prescribing-pdf-66141595059397",
+			"source_name": "Urinary tract infection (recurrent): antimicrobial prescribing",
+			"source_url": "https://www.nice.org.uk/guidance/ng112"
+		},
+		{
+			"source_data": "https://www.nice.org.uk/guidance/qs36/resources/urinary-tract-infection-in-children-and-young-people-pdf-2098609602757",
+			"source_name": "Urinary tract infection in children and young people",
+			"source_url": "https://www.nice.org.uk/guidance/qs36"
+		},
+		{
+			"source_data": "",
+			"source_name": "Urinary tract infection  in  under 16s: diagnosis  and management",
+			"source_url": "https://www.nice.org.uk/guidance/cg54"
+		}
+	]
+}
