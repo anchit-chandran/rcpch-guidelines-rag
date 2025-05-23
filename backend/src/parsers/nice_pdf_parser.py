@@ -17,12 +17,14 @@ def parse_nice_pdfs(source_data_collection: SourceDataCollection):
 def get_pdf(source_data: SourceDataForDocument):
 	"""Download a PDF from a source data if not already present"""
 	pdf_url = source_data.source_data
-	pdf_path = c.NICE_PDF_DIR / f"{source_data.source_name}.pdf"
+	pdf_name = pdf_url.split("/")[-1]
+	pdf_path = c.NICE_PDF_DIR / f"{pdf_name}.pdf"
+
 	if not pdf_path.exists():
-		_logger.debug(f"Downloading {pdf_path} as not present")
+		_logger.debug(f"Downloading {pdf_name} as not present")
 		pdf_path.write_bytes(requests.get(pdf_url).content)
 	else:
-		_logger.debug(f"Skipping {pdf_path} as it already exists")
+		_logger.debug(f"Skipping {pdf_name} as it already exists")
 
 	return pdf_path
 
