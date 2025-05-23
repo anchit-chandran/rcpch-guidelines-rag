@@ -19,9 +19,10 @@ exclude = [".venv", "venv", "env", "build", "dist"]
 
 [tool.ruff.lint]
 select = ["E", "F", "W"]
-ignore = []
+ignore = ["W191"]
+
+[tool.ruff.format]
+indent-style = "tab"
 
 [dependency-groups]
-dev = [
-    "ruff>=0.11.10",
-]
+dev = ["ruff>=0.11.10"]
