@@ -36,7 +36,6 @@ def get_pdf(source_data: SourceDataForDocument) -> Path:
 	if not pdf_path.exists():
 		_logger.debug(f"Downloading {pdf_name}")
 		try:
-			breakpoint()
 			response = requests.get(pdf_url, timeout=10)
 			response.raise_for_status()
 			pdf_path.write_bytes(response.content)
