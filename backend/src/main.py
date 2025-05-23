@@ -1,4 +1,4 @@
-from scraper import scrape_links, scrape_content
+from src.scrapers.scraper import scrape_links, scrape_content
 
 
 def main():
