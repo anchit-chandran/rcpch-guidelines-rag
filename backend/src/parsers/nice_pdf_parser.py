@@ -21,6 +21,8 @@ def get_pdf(source_data: SourceDataForDocument):
 	if not pdf_path.exists():
 		_logger.debug(f"Downloading {pdf_path} as not present")
 		pdf_path.write_bytes(requests.get(pdf_url).content)
+	else:
+		_logger.debug(f"Skipping {pdf_path} as it already exists")
 
 	return pdf_path
 
