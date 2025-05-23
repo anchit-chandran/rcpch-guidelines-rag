@@ -1,6 +1,6 @@
 ---
-description: 
-globs: 
+description:
+globs:
 alwaysApply: true
 ---
 - python based parser for https://www.rcpch.ac.uk/resources/clinical-guideline-directory#adhd (starting from ADHD heading)
