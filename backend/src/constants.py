@@ -8,3 +8,6 @@ RCPCH_GUIDELINES_LINKS_FILE = DATA_DIR / "links" / "rcpch_guidelines_links.json"
 # FOR EACH TYPE
 NICE_PDF_JSON_FILE = DATA_DIR / "nice_pdfs.json"
 NICE_PDF_DIR = DATA_DIR / ".local" / "pdfs" / "nice"
+
+# Embeddings
+EMBEDDINGS_DIR = DATA_DIR / ".local" / "embeddings"

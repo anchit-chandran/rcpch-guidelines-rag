@@ -10,6 +10,15 @@ class DocumentElementMetadata(BaseModel):
 	last_modified: str
 	page_number: int
 
+	def to_dict(self):
+		return {
+			"file_directory": self.file_directory,
+			"filename": self.filename,
+			"filetype": self.filetype,
+			"last_modified": self.last_modified,
+			"page_number": self.page_number,
+		}
+
 
 class DocumentElement(BaseModel):
 	element_id: str
