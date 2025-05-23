@@ -1,10 +1,9 @@
 from collections import defaultdict
 from datetime import datetime
-import json
 import os
 import re
 from urllib.parse import urlparse
-from parsers.nice import parse_nice_links
+from scrapers.nice import scrape_nice_links
 import constants as c
 from bs4 import BeautifulSoup
 import requests
@@ -106,7 +105,7 @@ def scrape_content(all_links_data: AllLinksData):
     # nice
     for link_type, links in all_links_data.links_by_type.items():
         if link_type == "nice":
-            parse_nice_links(links)
+            scrape_nice_links(links)
         else:
             _logger.info(f"Skipping link type as no strategy exists: {link_type}")
 

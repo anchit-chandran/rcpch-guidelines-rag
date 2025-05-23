@@ -1,4 +1,4 @@
-"""Parser for NICE guidance"""
+"""Scraper for NICE guidance"""
 
 import json
 import re
@@ -11,8 +11,8 @@ import constants as c
 _logger = get_logger(__name__)
 
 
-def parse_nice_links(links: list[str]):
-    """Parse nice links
+def scrape_nice_links(links: list[str]):
+    """Scrape nice links
 
     Strategy:
     - Download the PDF
